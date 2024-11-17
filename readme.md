@@ -27,7 +27,3 @@ Then download the repos, and the custom script to run the multiagent exploration
 Now you have everything you need to run the custom script. 
 
 
-
-
-https://github.com/user-attachments/assets/fda95443-2d32-4096-830e-b30af7bf4549
-
