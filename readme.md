@@ -8,6 +8,7 @@ In the both repo's, they mentioned how to install the habitat-lab and
 habitat-sim. 
 
 Habitat-lab: https://github.com/facebookresearch/habitat-lab
+
 Habitat-sim: https://github.com/facebookresearch/habitat-sim
 
 Once the install is done. 
@@ -20,6 +21,8 @@ Data: https://drive.google.com/drive/folders/1CuISCthmGezqivGIgrss-GBLDupqKVqF?u
 I am not the owner of the data, I am just storing it for the sake convence 
 for my team. I am including terms and conditions of the owner, if you need 
 anything.
+
+Then download the repos, and the custom script to run the multiagent exploration path.
 
 Now you have everything you need to run the custom script. 
 
